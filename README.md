@@ -7,8 +7,7 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 ## 💼 Expertise  
 
 ### Frontend Development  
-- ![Intermediate](https://img.shields.io/badge/Proficiency-Intermediate-yellow)
-  **React**  
+- ![Intermediate](https://img.shields.io/badge/Proficiency-Intermediate-yellow) **React**  
   - UI/UX Development  
   - State Management (Redux, Context API)  
   - Performance Optimization  
@@ -23,14 +22,10 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
   - Microservices Architecture for Fintech Systems  
   - High-Performance Transaction Processing  
 
-- ![Intermediate](https://img.shields.io/badge/Proficiency-Intermediate-yellow) **Node.js**  
-  - Real-Time Data Handling  
-  - Middleware for Authentication and Authorization  
-
 ### Fintech Specialization  
+- **Payment Orchestration Platform** (All in one gateway)  
 - **Payment Gateway Integration** (Stripe, Razorpay, PayPal)  
-- **Secure Transactions** (PCI DSS Compliance)  
-- **Blockchain Solutions** (Smart Contracts, Cryptocurrency Wallets)  
+- **Secure Transactions** (PCI DSS Compliance) 
 
 ---
 
@@ -43,7 +38,7 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 ## 🌟 My Fintech Projects  
 
-### 1. **Digital Wallet Platform**  
+### 1. **Paysants**  
    - Built a secure wallet platform with multi-currency support.  
    - Integrated fraud detection using machine learning algorithms.  
    - Tech Stack: React, Spring Boot, PostgreSQL  
@@ -62,8 +57,8 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 ## 📈 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Your GitHub Stats](https://paysants.com/)  
+![Top Languages](https://gramapays.com)  
 
 ---
 
