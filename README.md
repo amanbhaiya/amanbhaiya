@@ -1,13 +1,14 @@
 # Welcome to My GitHub! 👋
 
-Hi, I’m **[Your Name]**, a **Full-Stack Developer** with a focus on **Fintech Solutions**. I specialize in designing and developing secure, scalable, and efficient platforms that empower financial technology innovations.  
+Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech Solutions**. I specialize in designing and developing secure, scalable, and efficient platforms that empower financial technology innovations.  
 
 ---
 
 ## 💼 Expertise  
 
 ### Frontend Development  
-- ![Intermediate](https://img.shields.io/badge/Proficiency-Intermediate-yellow) **React**  
+- ![Intermediate](https://img.shields.io/badge/Proficiency-Intermediate-yellow)
+  **React**  
   - UI/UX Development  
   - State Management (Redux, Context API)  
   - Performance Optimization  
