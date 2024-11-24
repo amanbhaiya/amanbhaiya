@@ -72,6 +72,7 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 <h2 style="margin: 20px 0;">💰 Fintech</h2>
  <img src="https://paysants.com/assets/img/logo_1.png" alt="React"  width="200" height="100" style="background-color: white; border-radius: 10px; object-fit: contain;" />
+       <img src="https://gramapays.com/storage/assets/img/gramapay_logo_primary_blue_logo.png" alt="Gramapays" width="200" height="100" style="border: 1px solid #000; object-fit: contain; border-radius: 8px;" />
 <div style="display: flex; gap: 8px;">
     <a href="https://paysants.com">
         <img src="https://paysants.com/assets/img/logo_1.png" alt="Paysants" width="200" height="100" style="background-color: white; border-radius: 10px; object-fit: contain;" />
