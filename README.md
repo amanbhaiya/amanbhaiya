@@ -57,7 +57,7 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 ## 📈 GitHub Stats  
 
-[![Your GitHub Stats](https://via.placeholder.com/150)](https://paysants.com)
+[![Your GitHub Stats](https://paysants.com/assets/img/logo_1.png)](https://paysants.com)
 [![Top Languages](https://via.placeholder.com/150)](https://gramapays.com) 
 
 ---
