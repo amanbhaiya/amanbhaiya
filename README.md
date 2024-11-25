@@ -340,7 +340,7 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 <h2 style="margin: 20px 0;">🛒 E-Commerce</h2>
 <a href="https://medicalsurgicalsolutions.com">
-    <img src="https://medicalsurgicalsolutions.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdvqwfpmxo%2Fimage%2Fupload%2Fv1731307505%2Fundefined%2FLOGONEW1copy.png&w=1920&q=75" alt="Paysants Logo" width="200" height="100" style="background-color: white; border-radius: 10px; object-fit: contain;" />
+    <img src="https://medicalsurgicalsolutions.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdvqwfpmxo%2Fimage%2Fupload%2Fv1731307505%2Fundefined%2FLOGONEW1copy.png&w=1920&q=75" alt="Paysants Logo" width="200" height="100" style="border: 2px solid white; border-radius: 10px; object-fit: contain;" />
 </a>
 
 ---
