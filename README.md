@@ -81,13 +81,13 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 ## 💰 Fintech 
 <a href="https://paysants.com">
-  <img src="https://img.shields.io/badge/🌐-Paysants-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/🌐-Paysants-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px;" />
+</a>&nbsp;
 <a href="https://gramapays.com">
-  <img src="https://img.shields.io/badge/🌐-Gramapays-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/🌐-Gramapays-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px;" />
+</a>&nbsp;
 <a href="https://swiftopay.com">
-  <img src="https://img.shields.io/badge/🌐-Swiftopay-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/🌐-Swiftopay-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px;" />
 </a>
 
 &nbsp;
@@ -103,10 +103,10 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 ## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/aman-kumar-yadav-760b58193">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="MySQL" style="height: 24px; margin-right: 10px;" />
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="MySQL" style="height: 24px;" />
+</a>&nbsp;
 <a href="mailto:amankumaryadav.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="MySQL" style="height: 24px; margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="MySQL" style="height: 24px;" />
 </a>
 
 
