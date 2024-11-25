@@ -1,15 +1,16 @@
 <div style="width: 100%;">
   <a href="https://github.com/amanbhaiya">
-    <img src="welcome.svg" style="width: 100%; height: 100%;" alt="Click to see the source">
+    <img src="image.svg" style="width: 100%; height: 100%;" alt="Click to see the source">
   </a>
 </div>
 
----
+&nbsp;
+
 # Welcome to My GitHub! 👋
 
 Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech Solutions**. I specialize in designing and developing secure, scalable, and efficient platforms that empower financial technology innovations.
 
----
+&nbsp;
 
 ## 💼 Expertise  
 
@@ -28,19 +29,21 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
   - Microservices Architecture for Fintech Systems  
   - High-Performance Transaction Processing  
 
-### Fintech Specialization  
+&nbsp;
+
+## 📊 Fintech Specialization  
 - **Payment Orchestration Platform** (All in one gateway)  
 - **Payment Gateway Integration** (Stripe, Razorpay, PayPal)  
 - **Secure Transactions** (PCI DSS Compliance) 
 
----
+&nbsp;
 
 ## 📊 Fintech Tools & Platforms  
 - **Cloud Platforms**: AWS (EC2, RDS), Google Cloud  
 - **Databases**: PostgreSQL, MySQL, MongoDB  
 - **CI/CD**: Docker, Jenkins, GitHub Actions  
 
----
+&nbsp;
 
 ## 🌟 Fintech Projects  
 
@@ -72,56 +75,32 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
      <img src="https://img.shields.io/badge/Stripe-blue?style=flat&logo=stripe&logoColor=white" alt="Stripe" style="height: 24px; margin-right: 10px;" />
      <img src="https://img.shields.io/badge/Razorpay-blue?style=flat&logo=razorpay&logoColor=white" alt="Razorpay" style="height: 24px;" />
 
----
+&nbsp;
 
 # 📈 GitHub Stats
 
 ## 💰 Fintech 
----
-&nbsp;
-
-
 <a href="https://paysants.com">
-    <img src="https://paysants.com/assets/img/logo_1.png" alt="Paysants" width="200" height="100" style="border-radius: 10px; object-fit: contain;" />
+  <img src="https://img.shields.io/badge/🌐-Paysants-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
 </a>
 <a href="https://gramapays.com">
-    <img src="https://gramapays.com/storage/assets/img/gramapay_logo_primary_blue_logo.png" alt="Gramapays" width="200" height="100" style="border-radius: 10px; object-fit: contain;" />
+  <img src="https://img.shields.io/badge/🌐-Gramapays-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
 </a>
 <a href="https://swiftopay.com">
-    <span style="
-            height: 100px;
-            width: 200px;
-            border-radius: 10px;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 10px;
-    ">
-        <img src="https://accounts.swiftopay.com/assets/logo-sm-B7BxLxAo.png" alt="Swiftopay" style="max-height: 30%; max-width: 45%; object-fit: contain;" />
-        <img src="https://onboarding.swiftopay.com/assets/logo-dark-DmLSIu_p.png" alt="Swiftopay" style="max-height: 80%; max-width: 60%; object-fit: contain; margin-top: 3px;" />
-    </span>
+  <img src="https://img.shields.io/badge/🌐-Swiftopay-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
 </a>
-
-&nbsp;
-
----
 
 &nbsp;
 
 ## 🛒 E-Commerce
----
-
 <a href="https://medicalsurgicalsolutions.com">
-    <img src="https://medicalsurgicalsolutions.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdvqwfpmxo%2Fimage%2Fupload%2Fv1731307505%2Fundefined%2FLOGONEW1copy.png&w=1920&q=75" alt="Paysants Logo" width="200" height="100" style="border-radius: 10px; object-fit: contain;" />
+  <img src="https://img.shields.io/badge/🌐-Medical Surgical Solutions-orange?style=flat&logo=&logoColor=white" alt="React" style="height: 48px; margin-right: 10px;" />
 </a>
 
----
 
 &nbsp;
 
 ## 🌐 Connect with Me
-
----
 
 <a href="https://www.linkedin.com/in/aman-kumar-yadav-760b58193">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="MySQL" style="height: 24px; margin-right: 10px;" />
