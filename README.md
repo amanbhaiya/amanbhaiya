@@ -3,6 +3,8 @@
       <img src="welcome.svg" style="width: 100%; height: 100%;" alt="Click to see the source">
     </a>
   </div>
+
+---
 # Welcome to My GitHub! 👋
 
 Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech Solutions**. I specialize in designing and developing secure, scalable, and efficient platforms that empower financial technology innovations.
