@@ -217,10 +217,3 @@ Hi, I’m **Aman Kumar Yadav**, a **Full-Stack Developer** focusing on **Fintech
 
 
 
-
-<a href="mailto:amankumaryadav.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="MySQL" style="height: 24px;" />
-</a>
-
-
-
